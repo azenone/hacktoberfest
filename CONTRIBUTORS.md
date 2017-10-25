@@ -332,6 +332,11 @@
 - Bio: Computer Science Major
 - GitHub: [WolframTheta](https://github.com/wolframtheta)
 
+#### Name: [azenone](https://github.com/azenone)
+- Place: Couches, Whereever I may roam.
+- Bio: Company Man
+- GitHub: [azenone](https://github.com/azenone)
+
 #### Name: [Vishal](https://dainvinc.github.io)
 - Place: New York
 - Bio: Software developer with a knack to learn things quickly.

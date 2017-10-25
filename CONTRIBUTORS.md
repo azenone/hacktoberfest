@@ -51,6 +51,11 @@
 - Bio: Software Engineer
 - GitHub: [mintoo511](https://github.com/mintoo511)
 
+#### Name: [azenone](https://github.com/azenone)
+- Place: Couches, Whereever I may roam.
+- Bio: Company Man
+- GitHub: [azenone](https://github.com/azenone)
+
 #### Name: [GITHAE KEVIN](https://github.com/Kevogich)
 - Place: Torino, Italy
 - Bio: Everything Data !
